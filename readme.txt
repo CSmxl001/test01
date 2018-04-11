@@ -7,4 +7,8 @@ Git has a mutable index called stage.
 
 new branch
 >>>>>>> dev
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> feature1
